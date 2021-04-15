@@ -36,3 +36,13 @@ $ python2 fbi.py
 * [Warn] please turn off your VPN before using this program !!!
 * [Tips] do not overuse this program !
 
+# Follow me
+# Teligram channel
+https://t.me/joinchat/LvP9ZrwL2TBlY2I1
+# My YouTube channel
+https://youtube.com/channel/UCVHP4sTp8hm0GTRWwY8u0Xw
+
+https://youtube.com/channel/UC4DOIS8V0ui5nZW-CmD1buw
+# Instagram
+https://www.instagram.com/memesbachha/?hl=en
+
