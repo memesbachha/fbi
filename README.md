@@ -38,6 +38,11 @@ $ python2 fbi.py
 * [Warn] please turn off your VPN before using this program !!!
 * [Tips] do not overuse this program !
 
+
+# Demo video
+
+https://youtu.be/CRfvRf3FMTA
+
 # Follow me
 # Teligram channel
 https://t.me/joinchat/LvP9ZrwL2TBlY2I1
